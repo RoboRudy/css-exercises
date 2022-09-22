@@ -1,0 +1,22 @@
+.odd {
+background-color: rgb(236, 130, 231);
+font-family: Verdana,DejaVu Sans, sans-serif;
+}
+
+.even {
+
+}
+
+#two-block {
+    color: rgb(29, 29, 177);
+    font-size: 36px;
+}
+
+#three-block {
+    font-size: 24px;
+}
+
+#fourth-block {
+    background-color: rgb(126, 245, 126);
+
+}
