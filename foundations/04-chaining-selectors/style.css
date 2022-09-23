@@ -13,6 +13,8 @@
     height: 400px;
 }
 
+/** for personal notes: In a situation where I want to chain I add classes to the elements that I want to see those changes in; Excluding other classes that do not share the very same class/selector combinations. i.e.chaining.
+
 .avatar.proportioned {
 
     width: 300px;
